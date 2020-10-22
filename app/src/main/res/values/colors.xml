@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2CC7B8</color>
+    <color name="colorPrimaryDark">#1F8123</color>
+    <color name="colorAccent">#1B286D</color>
+    <color name="red">#D51404</color>
+
+
+    <color name="overlay">#8B333232</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="colorHint">#80FFEB3B</color>
+    <color name="dekhajabena">#D5F44336</color>
+</resources>
